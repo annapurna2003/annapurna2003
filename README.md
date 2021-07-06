@@ -41,7 +41,7 @@
  
  ### 📬 Get in Touch
 
-- GitHub: [GitHub](https://www.github.com/annapurna2003)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/annapurna-shobitha-193421200/)
-- E-mail: annapurna.shobitha2020@vitstudent.ac.in
+- <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="18"> GitHub: [GitHub](https://www.github.com/annapurna2003)
+- <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="22"> LinkedIn: [LinkedIn](https://www.linkedin.com/in/annapurna-shobitha-193421200/)
+- <img src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" width="22"> E-mail: annapurna.shobitha2020@vitstudent.ac.in
 

@@ -1,5 +1,6 @@
 <div align="center">
 <p> Hey, Annapurna here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=annapurna2003&label=Profile%20views&color=0e75b6&style=flat" alt="annapurna2003" /> </p>
 </div>
 <div align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="girlcoding" width="500"  />
